@@ -1,2 +1,2 @@
-[![Hind's GitHub stats](https://github-readme-stats.vercel.app/api?username=hind-sagar-biswas&show_icons=true&custom_title=My+Stats&line_height=29)](https://github.com/hind-sagar-biswas)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hind-sagar-biswas&card_width=495)](https://github.com/hind-sagar-biswas)
+[![Hind's GitHub stats](https://github-readme-stats.vercel.app/api?username=hind-sagar-biswas&show_icons=true&custom_title=My+Stats&line_height=29&title_color=0ed2f7&text_color=ffffff&icon_color=c9d6ff&bg_color=45,0f0c29,302b63,24243e)](https://github.com/hind-sagar-biswas)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hind-sagar-biswas&card_width=495&title_color=0ed2f7&text_color=ffffff&icon_color=c9d6ff&bg_color=45,0f0c29,302b63,24243e)](https://github.com/hind-sagar-biswas)

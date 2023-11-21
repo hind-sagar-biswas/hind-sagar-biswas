@@ -11,4 +11,11 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hind-sagar-biswas&card_width=495&theme=tokyonight)](https://hind-sagar-biswas.github.io/portfolio/)
 
   ![](https://github-readme-streak-stats.herokuapp.com/?user=hind-sagar-biswas&theme=tokyonight)
+
+  ### Activites
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Hind's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hind-sagar-biswas&theme=tokyo-night" /></a>
+
+  ### Visitor count
+<img src="https://profile-counter.glitch.me/hind-sagar-biswas/count.svg" />
 </div>

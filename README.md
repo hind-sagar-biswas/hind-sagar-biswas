@@ -14,6 +14,8 @@
 
   ![Hind's Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=hind-sagar-biswas&theme=tokyo-night)
 
+  ![Hind's github trophies](https://github-profile-trophy.vercel.app/?username=hind-sagar-biswas&theme=nord&layout=compact&row=1)
+
   ### Visitors
   ![Visitor count](https://profile-counter.glitch.me/hind-sagar-biswas/count.svg)
 
